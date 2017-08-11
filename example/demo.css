@@ -19,6 +19,9 @@
 
 .container {
   margin: auto;
+  max-width: 1200px;
+  height: 500px;
+  margin-bottom: 100px;
 }
 
 @keyframes slide {
